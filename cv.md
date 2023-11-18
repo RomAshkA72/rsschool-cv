@@ -6,7 +6,7 @@
 
 ## Skills: i work in Visual Studio, i know a  HTML, CSS, C#, JS;
 
-## Code examples: const fun = () => { let n; n * n; return n; };
+## Code examples: const fun = (a,b) => { let c; c = a * b; return c; };
 
 ## Experience: absent, participated in the programming olimpiad ICPC;
 
